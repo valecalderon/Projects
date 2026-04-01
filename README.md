@@ -4,4 +4,4 @@ Created: 03/31/2026\
 Description:\
 Some projects and cool coding experience I have done throughout my career.
 
--> This repo is for the whole purpose of showcasing my work, no replication, modifition, reproduction or sharing of this code is authorized. 
+<sub>All rights reserved. This repo is for the whole purpose of showcasing my work, no replication, modifition, reproduction or sharing of this code is authorized.</sub>
