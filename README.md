@@ -1,4 +1,4 @@
-# Projects
+# Projects 👌
 Author: Valeria Calderon Triana\
 Created: 03/31/2026\
 Description:\
