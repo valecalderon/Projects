@@ -1,11 +1,11 @@
 # Projects 🤖
 Author: Valeria Calderon Triana\
-Created: 03/31/2026\
-###Description:\
-Some projects and cool coding experiences I have done throughout my career. \
+Created: 03/31/2026
+### Description:
+Some projects and cool coding experiences I have done throughout my career. 
 + ✅ To see full functionability of some projects you will need to download the files. Some have videos shwocasing their results.
 
-If you have any question or comments please reach out!\
+If you have any question or comments please reach out!
 
 📩 [gmail](mailto:valery.calderon2003@gmail.com)
 or
