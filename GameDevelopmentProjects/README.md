@@ -1,4 +1,4 @@
-## Unix Projects 🎮
+## Game Development Projects 🎮
 A showcase of some Unix games I coded. Really fun and creative. 
 
 Tools used: 
