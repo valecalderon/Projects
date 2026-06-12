@@ -10,6 +10,9 @@ Knowledge:
 + Game loops
 + Sprites
 + Inputs
++ AI game dev
++ Rigid body physics
++ Collision detection
 + Game design
 
 You will need to download the executable files with a UnityPlayer.dll (file was too big for GitHub) and other files in the folder to open the app. 
