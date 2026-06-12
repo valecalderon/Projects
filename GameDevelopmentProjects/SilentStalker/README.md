@@ -14,6 +14,9 @@ Knowledge:
 + Pathfinding
 + Behavior trees
 
+VIDEO DEMO 😊:\
+[Youtube](https://youtu.be/1CpbqOQxPUw)
+
 Education from UKY class CS410G Game Development
 All resources were open source free to use. Designs of intro page, instructions and credits are done in canva by me. 
 
