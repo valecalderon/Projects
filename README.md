@@ -2,7 +2,7 @@
 Author: Valeria Calderon Triana\
 <sub>Created: 03/31/2026</sub>
 ### Description:
-Some projects and cool coding experiences I have done throughout my career. \
+Some projects and cool coding experiences I have done throughout my career. 
 #### Related coursework: 
 Software Engineering and Design process, Data Structures and Algorithms, Data Science, Game Development, AI Engineering
 + ✅ To see full functionability of some projects you will need to download the files. Some have videos shwocasing their results.
