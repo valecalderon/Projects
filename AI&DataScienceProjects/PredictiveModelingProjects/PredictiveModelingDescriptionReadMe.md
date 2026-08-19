@@ -1,5 +1,5 @@
 ## Predictive Modeling
-Applying supervised machine learning models for predictions and model selection\
+Applying supervised machine learning models for predictions and model selection of housing prices and loan risk default\
 Author: Valeria Calderon\
 Created: 12/04/2025
 
