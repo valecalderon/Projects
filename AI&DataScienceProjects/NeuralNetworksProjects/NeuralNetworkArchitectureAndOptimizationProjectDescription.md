@@ -5,7 +5,7 @@ Created: 12/10/2025
 (Project done for a DS501 class in UKY)
 
 ### Objective:
-Hands on experience on designing, training and debugging neural networks. The project will use a basic Multi-Layer/
+Design, train and debug neural networks. The project will use a basic Multi-Layer/
 Perceptron (MLP) to a Convulutional Neural Network (CNN). This project is focused on the interpretation of training curves.
 
 Dataset used: Fashion-MNIST
