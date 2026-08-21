@@ -1,0 +1,49 @@
+name: Job Agent Daily Run
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 6am Phoenix time (adjust as needed; cron is UTC)
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # required so the workflow can commit jobs_data.json back to the repo
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Search for new jobs
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python job_search.py
+
+      - name: Tailor resume + cover letters for new jobs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python tailor_resume.py
+
+        - name: Sync to Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python notion_sync.py
+ 
+      - name: Commit updated job data back to the repo
+        run: |
+          git config user.name "job-agent-bot"
+          git config user.email "actions@github.com"
+          git add jobs_data.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update job data $(date -u +'%Y-%m-%d')"
+          git push
