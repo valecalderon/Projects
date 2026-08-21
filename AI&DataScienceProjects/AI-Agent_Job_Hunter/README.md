@@ -1,4 +1,4 @@
-# job hunting AI-agent with automatic notification to your phones
+# Job hunting AI-agent
 ## What this agent actually does
 Every day (on a free schedule), it will:
 
