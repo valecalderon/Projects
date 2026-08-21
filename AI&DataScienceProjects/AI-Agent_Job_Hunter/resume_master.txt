@@ -1,0 +1,55 @@
+
+
+PROFESSIONAL SUMMARY 
+
+Computer Science graduate with hands-on experience in cloud infrastructure, backend systems, and DevOps practices across AWS and Microsoft Azure. Proficient in Python, Java, SQL, and React, with a background spanning system deployment, database modernization, full-stack development, and product management. Certified in Artificial Intelligence with a strong academic record. 
+EDUCATION 
+
+ University                                                                                                                                                           Lexington, KY	 
+Bachelor of Science in Computer Science; Certification in Artificial Intelligence                                                               December 2025
+•	GPA:  | Honors College | r Scholarship |  Scholarship | Fellowship Recipient | Dean’s List
+EXPERIENCE 
+ Software Engineering Intern | 
+•	Developed, maintained, and secured backend systems and applications
+•	Modernized and extended 3+ SQL databases by designing new schemas and updates as part of the full DevOps lifecycle, improving data reliability and query performance 
+•	Identified and resolved system integration and security issues across applications and infrastructure using the Scrum framework, contributing to more stable releases
+  Front-End Developer Intern |                                                 
+•	Built client-facing web pages using HTML, CSS, and custom client theming, supporting secure authentication and payment services for brands including Subway and Papa John's
+•	Managed product deliverables and client feedback to ensure satisfaction metrics across all releases
+•	Maintained code quality and repository organization using GitHub for version control and peer code review
+  Research Assistant |  Laboratory, University
+•	Performed data analysis for urban ecology 
+•	Researched  implementing RStudio on s
+•	Translated research papers using my bilingual skills  use and collaborate on
+  IT Assistant | 
+•	Managed IT and AV systems including Echo360 across Collegeclassrooms. 	
+•	Supported faculty with remote instruction tools including Zoom. 
+  Peer Leader (Undergraduate Tutor) | 
+•	Tutored 30+ students weekly in Calculus I and II, providing personalized academic support.                                      
+PROJECTS
+
+  RNNs and Attention Mechanisms | AI Engineering                                                                                                                 August 2025	
+•	Implemented sequence models in PyTorch, including vanilla RNN for text generation and an 
+LSTM to address vanishing gradients
+•	Built a neural machine translation model using Bahdanau attention, enabling the decoder to align with 
+relevant parts of the input sequence
+Neural Network Architecture & Optimization | AI Engineering                                                                                   September 2025
+•	Designed, trained, and debugged neural networks in PyTorch, progressing from baseline multi-layer 
+perceptron to a LeNet-style CNN on the Fashion-MNIST dataset
+•	Diagnosed an intentional overfitting scenario and resolved it by applying dropout and L2 regularization 
+then compared training curves to validate the fix
+Predictive Modeling for Regression & Classification | Data Analysis                                                                               October 2025
+•	Built and evaluated 5 supervised learning models (Linear Regression, Decision tree, Random Forest,
+KNN, SVM) to predict housing prices and loan default risk on real-world datasets
+•	Compared model performance across linear, tree-based, instance-based, and kernel methods to select the most accurate approach for each task.
+ACTIVITIES & LEADERSHIP 
+ 
+  Society of Hispanic Professional Engineers | 
+  Society of Women in Engineering | 
+  International and Engineering Ambassador | 
+SKILLS 
+ 
+  Cloud & DevOps: AWS, Microsoft Azure, Google Cloud, GitHub, Unix, Agile/Scrum 
+  Programming Languages: Python, Java, SQL, C++, C#, R 
+  Frameworks & Libraries: React, TensorFlow, PyTorch 
+  Languages: Spanish (Fluent), English (Fluent), French (Conversational) 

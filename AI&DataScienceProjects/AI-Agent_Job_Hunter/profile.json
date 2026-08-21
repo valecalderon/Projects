@@ -1,0 +1,9 @@
+
+{
+  "name": "V",
+  "target_roles": ["Cloud Support Engineer", "SOC Analyst", "AI/ML Engineer", "Security Analyst", "Cloud Engineer I","Cybersecurity Analyst", "Cloud Security Engineer", "Cloud Security Analyst", "Cloud Security Specialist", "Cloud Security Consultant", "Cloud Security Architect", "Software Developer", "Software Engineer", "Cloud Architect", "Forward Deployed Engineer", "Solutions Engineer", "AI Engineer", "Machine Learning Engineer", "Data Scientist", "Data Engineer", "DevOps Engineer", "Site Reliability Engineer", "Cloud Operations Engineer", "Cloud Infrastructure Engineer", "Cloud Solutions Architect", "Cloud Security Consultant", "Cloud Security Specialist", "Cloud Security Architect"],
+  "location_pref": ["Remote", "Phoenix, AZ","Scottsdale, AZ", "Tempe, AZ", "Mesa, AZ", "Chandler, AZ", "Glendale, AZ", "Gilbert, AZ", "Peoria, AZ", "Surprise, AZ", "Avondale, AZ", "Goodyear, AZ", "Buckeye, AZ", "Queen Creek, AZ", "Apache Junction, AZ", "Maricopa, AZ"],
+  "years_experience": 2,
+  "certifications": ["Google Cloud Security Professional Certificate"],
+  "must_not_claim": ["do not invent employers, dates, or certifications not listed here"]
+}
