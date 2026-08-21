@@ -15,14 +15,18 @@ import requests
 DATA_FILE = "jobs_data.json"
 
 KEYWORDS = [
-    "cloud support", "cloud engineer", "AWS", "Azure", "GCP",
-    "cybersecurity analyst", "SOC analyst", "security analyst",
-    "AI engineer", "machine learning engineer", "ML engineer",
-    "IT support", "systems administrator",
+    "Cloud Support Engineer", "SOC Analyst", "AI/ML Engineer", "Security Analyst", "Cloud Engineer I","Cybersecurity Analyst", "Cloud Security Engineer", "Cloud Security Analyst", "Cloud Security Specialist", "Cloud Security Consultant", "Cloud Security Architect", "Software Developer", "Software Engineer", "Cloud Architect", "Forward Deployed Engineer", "Solutions Engineer", "AI Engineer", "Machine Learning Engineer", "Data Scientist", "Data Engineer", "DevOps Engineer", "Site Reliability Engineer", "Cloud Operations Engineer", "Cloud Infrastructure Engineer", "Cloud Solutions Architect", "Cloud Security Consultant", "Cloud Security Specialist", "Cloud Security Architect", "Incident responder",
+    "Jr. Cloud security analyst",
+    "Jr. Cybersecurity specialist",
+    "Information security analyst",
+    "Cybersecurity analyst",
+    "SOC security engineer",
+    "Cloud security specialist",
+    "DevSecOps engineer"
 ]
 
 ENTRY_LEVEL_SIGNALS = ["entry level", "entry-level", "junior", "associate", "0-2 years", "new grad", "graduate"]
-EXCLUDE_SIGNALS = ["senior", "sr.", "staff", "principal", "lead", "manager", "director", "5+ years", "7+ years"]
+EXCLUDE_SIGNALS = ["senior", "sr.", "staff", "principal", "lead", "manager", "director", "5+ years", "7+ years",, "3+ years", "4+ years", "6+ years", "8+ years", "9+ years", "10+ years"]
 
 
 def is_entry_level(title: str, description: str) -> bool:
