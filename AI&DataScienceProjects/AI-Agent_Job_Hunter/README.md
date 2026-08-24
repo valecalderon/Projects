@@ -1,5 +1,6 @@
 # Job hunting AI-agent
 ## What this agent actually does
+By: Valeria Calderon
 ### Overview
 
 The job hunting AI agent uses LArge ALnguage models, Gen AI, and Agentic Ai systems and addresses the time consuming task of searching for hours the internet for new job postings that match certain criteria.
@@ -44,7 +45,7 @@ Save everything to a Notion Database (or local folder) so you can review, then a
 4. **Gemini API key**: from Google AI Studio → free tier key.
 5. **Telegram**: message @BotFather, `/newbot`, get a bot token + your chat ID (2 min, easiest notification option).
 
-6. ## Step 2 — Prepare your resume as structured input
+## Step 2 — Prepare your resume as structured input
 
 Save two files in the repo:
 - `resume_master.txt` — your full resume as plain text (every bullet you've ever written, even ones not currently on your resume — more raw material = better tailoring).
@@ -75,3 +76,5 @@ See `tailor_resume.py`. For every row marked `NEW`, it:
 ## Running it for free, on schedule
 
 `schedule.yml` (GitHub Actions workflow) runs `job_search.py` every morning and `tailor_resume.py` right after, entirely on GitHub's free compute — nothing runs on your machine, no server costs.
+
+<sub> References: claude AI, Github guides</sub>
