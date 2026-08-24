@@ -1,7 +1,7 @@
 """
 tailor_resume.py
 For every sheet row marked NEW, generates tailored resume bullets + a cover
-letter draft using the Gemini API (free tier), writes results back to the
+letter draft using the Gemini API (free), writes results back to the
 sheet, and pings you on Telegram.
 
 Env vars required:
