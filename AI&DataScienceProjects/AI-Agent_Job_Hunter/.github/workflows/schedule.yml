@@ -2,7 +2,7 @@ name: Job Agent Daily Run
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 6am Phoenix time (adjust as needed; cron is UTC)
+    - cron: "0 13 * * *"   #  (adjust as needed; cron is UTC)
   workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
 
 permissions:
