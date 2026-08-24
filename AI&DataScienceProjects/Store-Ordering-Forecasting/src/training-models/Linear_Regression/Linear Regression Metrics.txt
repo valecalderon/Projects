@@ -1,0 +1,5 @@
+Linear Regression Model Metrics -
+
+Mean Squared Error: 425.60
+Mean Absolute Error: 7.17
+R^2 Score: 0.970
