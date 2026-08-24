@@ -5,13 +5,15 @@ Author: Valeria Calderon Triana\
 Some projects and cool coding experiences I have done throughout my career. 
 #### Related coursework: 
 Software Engineering and Design process, Data Structures and Algorithms, Data Science, Game Development, AI Engineering
-+ ✅ To see full functionability of some projects you will need to download the files. Some have videos showcasing their results.
++ ✅ To see full function ability of some projects you will need to download the files. Some have videos showcasing their results.
 
 #### Programming Languages: 
 Python, C++, C#. HTML, Unix
   
 #### Frameworks & Libraries: 
 React, TensorFlow, PyTorch
+
+#### Cloud & DevSecOps: AWS, Azure, Google Cloud, GitHub, Agile/Scrum
 
 If you have any question or comments please reach out!
 
