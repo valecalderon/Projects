@@ -3,7 +3,7 @@
 By: Valeria Calderon
 ### Overview
 
-The job hunting AI agent uses LArge ALnguage models, Gen AI, and Agentic Ai systems and addresses the time consuming task of searching for hours the internet for new job postings that match certain criteria.
+The job hunting AI agent uses Large Language models, Gen AI, and Agentic Ai systems and addresses the time consuming task of searching for hours the internet for new job postings that match certain criteria.
 
 This project is for saving time, and aiming for the right job openings for each person. The programs uses APIs to search for new job openings depending on certain keywords, and then saves it to a table in a notion databse in your private account. All steps on set up are below.
 
