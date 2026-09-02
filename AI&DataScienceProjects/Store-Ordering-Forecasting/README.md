@@ -51,10 +51,6 @@ PAPA-JOHN-S-STORE-ORDERING-FORECASTING
 ```
 ## Installation
 1.) Clone the repository
-```
-    git clone https://github.com/TiffanyClark225/Papa-John-s-Store-Ordering-Forecasting.git
-    cd PAPA-JOHN-S-STORE-ORDERING-FORECASTING
-```
     
 2.) Install the required dependencies
 ```
