@@ -1,7 +1,7 @@
 # RentalQA — Automated Testing Portfolio Project
 
 A small rental-pricing Web API built specifically to demonstrate the four testing
-skills called out in U-Haul's QA Automation Engineer posting: **unit testing**,
+skills: **unit testing**,
 **API testing**, **backend/data verification**, and **automation-framework design**
 on the **Microsoft stack** (C#, ASP.NET Core Web API, xUnit, Azure DevOps).
 
@@ -16,7 +16,7 @@ RentalQA/
 └── RentalQA.sln
 ```
 
-## Why it's built this way (say this part out loud in the interview)
+## Why it's built this way 
 
 - **`IRentalRepository`** is an interface, not a concrete class. The demo uses
   an in-memory implementation, but in production this would be EF Core against
@@ -50,7 +50,7 @@ Swagger UI will be available at `/swagger` once the API is running, so you can
 manually exercise the endpoints — useful if you're asked "how would you test
 this manually before automating it."
 
-## Extending it (good next steps to mention as "what I'd do next")
+## Extending it 
 
 1. Add a real `SqlServerRentalRepository : IRentalRepository` using Entity
    Framework Core, and re-run the same test suite against it to prove backend
@@ -64,16 +64,4 @@ this manually before automating it."
    the JD also calls out UI testing — this would round out all three testing
    layers (unit, API, UI) in one portfolio project.
 
-## How to talk about this in the interview
 
-If asked "what have you built on your own that makes up for a lack of 2 years
-of direct QA experience," this project answers it concretely:
-- It shows you can **write a real unit test**, not just describe testing in
-  the abstract.
-- It shows **API testing** against real HTTP endpoints, not just theory.
-- It shows you understand the difference between testing the API's *response*
-  and verifying the *backend* actually stored the right data — exactly the
-  distinction called out in "utilize tools to test APIs and backend SQL Servers."
-- It shows you think about **CI/CD integration** (the Azure DevOps pipeline),
-  not just local test runs.
-- It's on the **exact stack** the team uses: C#, Web API, Azure DevOps.
