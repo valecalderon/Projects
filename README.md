@@ -2,18 +2,19 @@
 Author: Valeria Calderon Triana\
 <sub>Created: 03/31/2026</sub>
 ### Description:
-Some projects and cool coding experiences I have done throughout my career. 
+Some projects and cool coding experiences I have done throughout my career and continue doing. 
 #### Related coursework: 
-Software Engineering and Design process, Data Structures and Algorithms, Data Science, Game Development, AI Engineering
+Software Engineering and Design process, Data Structures and Algorithms, Data Science, QA, Automation, Game Development, AI Engineering
 + ✅ To see full function ability of some projects you will need to download the files. Some have videos showcasing their results.
 
 #### Programming Languages: 
-Python, C++, C#. HTML, Unix
+Python, C++, C#, XML, JSON, HTML, CSS, Unix
   
 #### Frameworks & Libraries: 
-React, TensorFlow, PyTorch
+.NET, OAuth, API, React, Firebase, Jupyter, TensorFlow, PyTorch
 
-#### Cloud & DevSecOps: AWS, Azure, Google Cloud, GitHub, Agile/Scrum
+#### Cloud & DevSecOps: 
+AWS, Azure, Google Cloud, GitHub, Agile/Scrum
 
 If you have any question or comments please reach out!
 
